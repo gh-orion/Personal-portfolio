@@ -12,7 +12,7 @@ export default function Navbar() {
                     <div className="collapse navbar-collapse" id="navbarSupportedContent">
                         <ul className="navbar-nav me-auto mb-2 mb-lg-0">
                             <li className="li nv nav-item mx-2">
-                                <Link style={{ paddingLeft: '25px' }} className="nav-link active" aria-current="page" to="/">Home</Link>
+                                <Link style={{ paddingLeft: '25px' }} className="nav-link active" aria-current="page" to="/Personal-portfolio">Home</Link>
                             </li>
                             <li className="li nv nav-item mx-2">
                                 <Link style={{ paddingLeft: '10px' }} className="nav-link active" aria-current="page" to="/about">About me</Link>
